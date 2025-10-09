@@ -15,7 +15,7 @@ Creighton4Good is Creighton University’s open source software development lab.
 Food waste and sustainability application...
 
 ### Being maintained
-
+...  
 
 ## Grants
 
@@ -23,7 +23,7 @@ Food waste and sustainability application...
 Mini-Kingfisher...
 
 ### Past Support
-
+...  
 
 
 
