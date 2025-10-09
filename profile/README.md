@@ -34,7 +34,7 @@ Copyright © 2025–2026 Creighton University and the individual contributors of
 
 This repository and its associated documentation files were created as part of the Creighton4Good program at Creighton University, a faculty-governed, student-led open source software development lab.
 
-This project repository is licensed under the MIT License — see the [LICENSE](LICENSE.md) file for full terms.
+This project repository is licensed under the MIT License — see the [LICENSE](https://github.com/Creighton4Good/C4G-Program-Documents/blob/main/LICENSE) file for full terms.
 
 1. Attribution must be given to:
    - “Creighton University” as the institutional home of Creighton4Good.
